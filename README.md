@@ -1,4 +1,4 @@
-# Proyecto-final##Proyecto Final Bioinf2017-II
+# Proyecto Final Bioinf2017-II
 Estefania Cano Sánchez
 
 Este proyecto Bioinformático fue realizado como trabajo final para el curso de Bioinformática del Posgrado 
