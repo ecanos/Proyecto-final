@@ -15,6 +15,8 @@ En resumen el avance del proyecto es el siguiente:
 | Elaborar gráficas en R | pendiente |
 | Organizar el repositorio en Directorios | pendiente |
 
+[README](https://github.com/ecanos/Proyecto-final/blob/master/README.md)
+
 **Bibliografía Revisada**
 
 **1** González-Beltrán, A., Li, P., Zhao, J., Avila-Garcia, M. S., Roos, M., Thompson, M., ... & Lam, T. W. (2015). "From peer-reviewed to peer-reproduced in scholarly publishing: the complementary roles of data models and workflows" in bioinformatics. PLOS one, 10(7), e0127612.
