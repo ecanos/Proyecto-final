@@ -1,4 +1,5 @@
 #Proyecto Final Bioinf2017-II
+
 #Avance 3
 
 Querido diario, hoy te escribo emocionada porque he podido avanzar en mi proyecto final. Debido a que tuve dificultades para encontrar y descargar las secuencias crudas de la especie *Oryctolagus cuniculus* decidí cambiarla por la especie *Macaca mulatta* (número de acceso en NCBI: PRJNA381498) igual de bonita e interesante. 
